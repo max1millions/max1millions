@@ -2,7 +2,7 @@
 
 I am a Data Analytics & Engineering student specializing in high-volume ETL pipelines, programmatic data normalization, and complex REST API integrations. 
 
-Currently, I apply enterprise-grade data architecture to the music industry—one of the most notoriously fragmented data sectors in the world. I built the entire infrastructure for Rightstune, a proprietary publishing administration platform. 
+Currently, I apply enterprise-grade data architecture to global music publishing workflows, which is one of the most notoriously fragmented data sectors in the world. I built the entire infrastructure for Rightstune, a proprietary publishing administration platform. 
 
 ### What I've Built:
 * **High-Volume Ledger Reconciliation:** Architected deterministic SQL and Python pipelines to process and map **79 million+ micro-transaction records** across third-party databases.
