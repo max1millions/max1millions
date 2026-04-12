@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Max. 👋
 
-<!--
-**max1millions/max1millions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analytics & Engineering student specializing in high-volume ETL pipelines, programmatic data normalization, and complex REST API integrations. 
 
-Here are some ideas to get you started:
+Currently, I apply enterprise-grade data architecture to the music industry—one of the most notoriously fragmented data sectors in the world. I built the entire infrastructure for Rightstune, a proprietary publishing administration platform. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I've Built:
+* **High-Volume Ledger Reconciliation:** Architected deterministic SQL and Python pipelines to process and map **79 million+ micro-transaction records** across third-party databases.
+* **Open Source Contributions:** Contributor to the official Python library for **CWR V2.2** (Common Works Registration), optimizing data parsing for legacy EDI financial registration formats.
+* **REST API Integrations:** Open-Sourced modules interacting with external endpoints (like the muso.ai API) to extract, validate, and load JSON payloads into human readable formats.
+
+### 💻 Tech Stack
+* **Languages:** Python, SQL (MySQL), PHP, HTML, CSS, JavaScript
+* **Data Engineering:** ETL Pipelines, JSON Schema Validation, Database Design, Git
+* **Focus:** Enterprise Data Governance, Zero-Trust Architecture, Workflow Automation
+
+📫 **Let's Connect:** https://www.linkedin.com/in/max-larson-18729b183
