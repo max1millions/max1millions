@@ -1,6 +1,6 @@
 # Hi, I'm Max. 👋
 
-I am a Data Analytics & Engineering student specializing in automation, data normalization, and complex API integrations. 
+I am an IT Data Analytics student specializing in automation, data normalization, and complex API integrations. 
 
 Currently, I’m applying data architecture to the global music publishing industry which is one of the most fragmented data sectors in the world. I built the infrastructure for Rightstune, a publishing administration platform I created to help artists, producers, and songwriters recover their unmatched royalties.
 
