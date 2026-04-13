@@ -1,17 +1,16 @@
 # Hi, I'm Max. 👋
 
-I am a Data Analytics & Engineering student specializing in high-volume ETL pipelines, programmatic data normalization, and complex REST API integrations. 
+I am a Data Analytics & Engineering student specializing in automation, data normalization, and complex API integrations. 
 
-Currently, I apply enterprise-grade data architecture to global music publishing workflows, which is one of the most notoriously fragmented data sectors in the world. I built the entire infrastructure for Rightstune, a proprietary publishing administration platform. 
+Currently, I’m applying data architecture to the global music publishing industry which is one of the most fragmented data sectors in the world. I built the infrastructure for Rightstune, a publishing administration platform I created to help artists, producers, and songwriters recover their unmatched royalties.
 
 ### What I've Built:
-* **High-Volume Ledger Reconciliation:** Architected deterministic SQL and Python pipelines to process and map **79 million+ micro-transaction records** across third-party databases.
-* **Open Source Contributions:** Contributor to the official Python library for **CWR V2.2** (Common Works Registration), optimizing data parsing for legacy EDI financial registration formats.
-* **REST API Integrations:** Open-Sourced modules interacting with external endpoints (like the muso.ai API) to extract, validate, and load JSON payloads into human readable formats.
+* **Statement ETL pipelines:** I created SQL and Python programs to process and ingest over **79 million+ micro-transaction records** across dozens of statements.
+* **Open Source Software:** Contributor to the official Python library for **CWR V2.2** (Common Works Registration), which is essentially a global legacy EDI financial registration standard.
+* **API Integrations:** Open-Sourced modules and CLI applications interacting with API endpoints (like the muso.ai API) to load JSON data into human readable formats.
 
 ### Tech Stack
 * **Languages:** Python, SQL (MySQL), PHP, HTML, CSS, JavaScript
-* **Data Engineering:** ETL Pipelines, JSON Schema Validation, Database Design, Git
-* **Focus:** Enterprise Data Governance, Zero-Trust Architecture, Workflow Automation
+* **Data Engineering:** ETL Pipelines, JSON Schema Validation, Database Design, Git, Workflow Automation
 
 **Let's Connect:** https://www.linkedin.com/in/max-larson-18729b183
