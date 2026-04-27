@@ -6,7 +6,7 @@ Currently, the global music publishing industry is one of the most fragmented da
 
 ### What I've Built:
 * **Statement ETL pipelines:** I created SQL and Python programs to process and ingest over **79 million+ usages** across dozens of statements.
-* **Open Source Software:** Contributor to the official Python library for **CWR V2.2** (Common Works Registration), which is essentially a global legacy EDI financial registration standard.
+* **Open Source Software:** Contributor to a Python library for **CWR V2.2** (Common Works Registration), which is essentially a global legacy EDI financial registration standard.
 * **API Integrations:** Open-Sourced modules and CLI applications interacting with API endpoints (like the muso.ai API) to load JSON data into human readable formats.
 
 ### Tech Stack
