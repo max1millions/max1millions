@@ -10,7 +10,7 @@ Currently, the global music publishing industry is one of the most fragmented da
 * **API Integrations:** Open-Sourced modules and CLI applications interacting with API endpoints (like the muso.ai API) to load JSON data into human readable formats.
 
 ### Tech Stack
-* **Languages:** Python, SQL (MySQL), PHP, HTML, CSS, JavaScript
+* **Languages:** Python, SQL, PHP, HTML, CSS, JavaScript
 * **Data Engineering:** ETL Pipelines, JSON Schema Validation, Database Design, Git, Workflow Automation
 
 **Let's Connect:** https://www.linkedin.com/in/max-larson-18729b183
