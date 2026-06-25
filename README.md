@@ -9,7 +9,7 @@ Currently, the global music publishing industry is one of the most fragmented da
 * **Open Source Software:** Contributor to an open source Python library for **CWR V2.2** (Common Works Registration), which is a global financial registration standard for claiming publishing money
 * **OpenClaw Agentic AI:** Orchestrated a proprietary OpenClaw agent (Orion) specifically to automate music publishing engineering workflows.
 * **Rightstune MCP Server:** Created an MCP server specifically so Orion can call production functions on a separate machine and never read secret .env variables anywhere in it's own workspace
-* **RAG Pipelines:** Created a public repo containing the custom built RAG pipeline for Orion. 
+* **RAG Pipelines:** Created a public repo containing the custom built [RAG pipeline]([url](https://github.com/max1millions/RAG-PIPELINE)) for Orion. 
 
 ### Tech Stack
 * **Languages:** Python, SQL, PHP, HTML, CSS, JavaScript
