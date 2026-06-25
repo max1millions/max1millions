@@ -1,13 +1,15 @@
 # Hi, I'm Max. 👋
 
-I am an IT Data Analytics student specializing in automation, data normalization, and complex API integrations. 
+I'm an AI engineering student specializing in agentic AI, context engineering, agent harnessing, etc.
 
-Currently, the global music publishing industry is one of the most fragmented data sectors in the world. Because of this, I created Rightstune, a publishing administration platform I created to help artists, producers, and songwriters recover their unmatched royalties.
+Currently, the global music publishing industry is one of the most fragmented data sectors in the world. Because of this, I started Rightstune, a publishing admin platform I created to help musicians get paid. I also created an in-house OpenClaw agent named Orion. Orion can gather context about all of my private repos using LangChain and subsequently modify code locally using LangSmith and Claude.
 
 ### What I've Built:
-* **Statement ETL pipelines:** I created SQL and Python programs to process and ingest over **127 million+ usages** across dozens of statements.
-* **Open Source Software:** Contributor to a Python library for **CWR V2.2** (Common Works Registration), which is essentially a global legacy EDI financial registration standard (It's a 20+ year old standard).
-* **API Integrations:** Open-Sourced modules and CLI applications interacting with API endpoints (like the muso.ai API) to load JSON data into human readable formats.
+* **ETL pipelines:** Reconciled **$44,000+** in extra revenue for independent creators from Spotify, Apple Music, etc
+* **Open Source Software:** Contributor to an open source Python library for **CWR V2.2** (Common Works Registration), which is a global financial registration standard for claiming publishing money
+* **OpenClaw Agentic AI:** Orchestrated a proprietary OpenClaw agent (Orion) specifically to automate music publishing engineering workflows.
+* **Rightstune MCP Server:** Created an MCP server specifically so Orion can call production functions on a separate machine and never read secret .env variables anywhere in it's own workspace
+* **RAG Pipelines:** Created a public repo containing the custom built RAG pipeline for Orion. 
 
 ### Tech Stack
 * **Languages:** Python, SQL, PHP, HTML, CSS, JavaScript
