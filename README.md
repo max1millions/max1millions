@@ -13,6 +13,7 @@ Currently, the global music publishing industry is one of the most fragmented da
 
 ### Tech Stack
 * **Languages:** Python, SQL, PHP, HTML, CSS, JavaScript
-* **Data Engineering:** ETL Pipelines, JSON Schema Validation, Database Design, Git, Workflow Automation
+* **Data Engineering:** ETL Pipelines, JSON Schema Validation, Database Design, Git, System Design, API Integrations
+* **AI Engineering:** MCP Servers, OpenClaw, LangSmith, LangChain, Cursor
 
 **Let's Connect:** https://www.linkedin.com/in/max-larson-18729b183
