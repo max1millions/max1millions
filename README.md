@@ -2,7 +2,7 @@
 
 I'm an AI engineering student specializing in agentic AI, context engineering, agent harnessing, etc.
 
-Currently, the global music publishing industry is one of the most fragmented data sectors in the world. Because of this, I started Rightstune, a publishing admin platform I created to help musicians get paid. I also created an in-house OpenClaw agent named Orion. Orion can gather context about all of my private repos using LangChain and subsequently modify code locally using LangSmith and Claude.
+Currently, the global music publishing industry is one of the most fragmented data sectors in the world. Because of this, I started Rightstune, a publishing admin platform I created to help musicians get paid. I also created an OpenClaw agent named Orion who can gather context about all of my private repos using LangChain and modify code locally using LangSmith and Claude. Orion can also call production tools via MCP that execute real tasks like ingesting acknowledgement CWR submissions, processing statements, and enriching metadata all autonomously.
 
 ### What I've Built:
 * **ETL pipelines:** Reconciled **$44,000+** in extra revenue for independent creators from Spotify, Apple Music, etc
