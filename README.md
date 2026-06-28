@@ -1,6 +1,6 @@
 # Hi, I'm Max. 👋
 
-I'm an AI engineering student specializing in agentic AI, context engineering, agent harnessing, etc.
+I'm a music producer and AI engineer currently deepening my expertise in agentic AI, context engineering, agent harnessing, & more.
 
 Currently, the global music publishing industry is one of the most fragmented data sectors in the world. Because of this, I started Rightstune, a publishing admin platform I created to help musicians get paid. I also created an OpenClaw agent named Orion who can gather context about all of my private repos using LangChain and modify code locally using LangSmith and Claude. Orion can also call production tools via MCP that execute real tasks like ingesting acknowledgement CWR submissions, processing statements, and enriching metadata all autonomously.
 
