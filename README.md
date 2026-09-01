@@ -11,7 +11,6 @@ Currently, the global music publishing industry is one of the most fragmented da
 * **RAG Pipelines:** Created a public repo containing the custom built RAG pipeline https://github.com/max1millions/RAG-PIPELINE for Orion. 
 
 ### Tech Stack
-* **Languages:** Python, SQL, PHP, HTML, CSS, JavaScript
 * **Data Engineering:** ETL Pipelines, JSON Schema Validation, Database Design, Git, System Design, API Integrations, CI/CD Pipelines
 * **AI Engineering:** MCP Servers, OpenClaw, LangSmith, LangChain, Cursor, Claude Code, Cloud Tools (Google Cloud, AWS, etc)
 
